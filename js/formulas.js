@@ -11,9 +11,6 @@ function multiplication(num1, num2){
   return -1;
 }
 
-function division(num1, num2){
-  return -1;
-}
 
 // Area formulaas
 function areaSquare(side){
