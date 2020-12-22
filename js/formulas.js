@@ -1,21 +1,15 @@
 // Basic math formulaas
-function addition(num1, num2){
-  return -1;
-}
 
-function subtraction(num1, num2){
-  return -1;
-}
+
 
 function multiplication(num1, num2){
-  return -1;
+  return (
 }
 
 
 // Area formulaas
 function areaSquare(side){
-  return -1;
-}
+  r
 
 function areaRectangle(length, width){
   return -1;
@@ -30,7 +24,7 @@ function areaTriangle(base, height){
 }
 
 function Circle(radius){
-  return -1;
+  ;
 }
 
 function Sphere(radius){
